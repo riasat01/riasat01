@@ -12,12 +12,9 @@ I am Tanjib.I am a diligent front-end developer with a growing proficiency in ba
     <img src="https://skillicons.dev/icons?i=tailwind,js,react,mongodb,nodejs,firebase" />
 </p>
 
-<a align="center" href="https://git.io/streak-stats">
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=riasat01&theme=nightowl" alt="GitHub Streak"></img>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riasat01&theme=github_dark" alt="Top languages in commits card"></img>
-</a>
-
-<p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riasat01&theme=github_dark" alt="Profile details card"></img>
 </p>
 
